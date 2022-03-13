@@ -1,0 +1,15 @@
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\bin\Debug\net6.0\rrrr.exe
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\bin\Debug\net6.0\rrrr.deps.json
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\bin\Debug\net6.0\rrrr.runtimeconfig.json
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\bin\Debug\net6.0\rrrr.dll
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\bin\Debug\net6.0\rrrr.pdb
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\rrrr.csproj.AssemblyReference.cache
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\rrrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\rrrr.AssemblyInfoInputs.cache
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\rrrr.AssemblyInfo.cs
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\rrrr.csproj.CoreCompileInputs.cache
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\rrrr.dll
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\refint\rrrr.dll
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\rrrr.pdb
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\rrrr.genruntimeconfig.cache
+C:\Users\amin\Desktop\1\جنریک ها\rrrr\rrrr\obj\Debug\net6.0\ref\rrrr.dll
